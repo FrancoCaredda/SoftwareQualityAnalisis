@@ -1,0 +1,9 @@
+table {
+    border-color: rgba(36, 66, 222, 0.35);
+    text-align: center;
+    vertical-align: middle;
+}
+
+table thead {
+    background-color: rgba(36, 66, 222, 0.35);
+}
